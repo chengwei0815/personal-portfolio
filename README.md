@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="path/to/face-1.png"></img>
+<img src="path/to/face-1.png" alt="Image description">
   </kbd>
 </p>
 
