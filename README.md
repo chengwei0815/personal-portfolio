@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="path/to/Screenshot 2023-06-16 at 2.13.10 AM"></img>
+<img src="path/to/face-1.png"></img>
   </kbd>
 </p>
 
