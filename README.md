@@ -9,6 +9,13 @@
   </kbd>
 </p>
 
+<p align="center">
+  <kbd>
+<img src="/face-2.png" alt="Image description">
+  </kbd>
+</p>
+
+
 
 ## Table of Contents
 - [Sections](#sections)
