@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif"></img>
+<img src=""></img>
   </kbd>
 </p>
 
@@ -121,7 +121,15 @@ Set `showGithubProfile` to true or false to show Contact Profile using GitHub, d
 Note: Open Source Projects section only show pinned items of your GitHub.
 If you are seeing something as shown below, follow these [instructions](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile).
 
-![ERROR](https://i.imgur.com/Hj6mu1K.png)
+![ERROR](https://i.
+
+
+
+
+
+
+
+ur.com/Hj6mu1K.png)
 
 If the above solution still doesn't work, visit the [wiki page](https://github.com/saadpasta/developerFolio/wiki/Github-Setup-For-Open-Source-Projects).
 
@@ -258,16 +266,8 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 - Add More Sections
 
-## Project Maintainers 
 
-<table>
-  <tr>
-    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kartikcho"><img src="https://avatars1.githubusercontent.com/u/48270786?v=4" width="100px;" alt=""/><br /><sub><b>Kartik Choudhary</b></sub></a></td>
-    <td align="center"><a href="https://github.com/naveen521kk"><img src="https://avatars1.githubusercontent.com/u/49693820?v=4" width="100px;" alt=""/><br /><sub><b>Naveen M K</b></sub></a></td>
-    <td align="center"><a href="http://www.muhammadhasham.com"><img src="https://avatars0.githubusercontent.com/u/17927649?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Hasham</b></sub></a></td>
-  </tr>
-</table>
+
 
 ## Contributors 
 
