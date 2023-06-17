@@ -46,8 +46,8 @@
 
 <p align="center">
 Deploy to Netlify: npm run build
-drag build folder to Netlify
 </p>
-<p>
+
+<p align="center">
 drag build folder to Netlify
 </p>
