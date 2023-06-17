@@ -48,3 +48,6 @@
 Deploy to Netlify: npm run build
 drag build folder to Netlify
 </p>
+<p>
+drag build folder to Netlify
+</p>
