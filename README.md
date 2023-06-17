@@ -14,4 +14,32 @@
   </kbd>
 </p>
 
+<p align="center">
+  <kbd>
+<img src="/face-3.png" alt="Image description">
+  </kbd>
+</p>
 
+<p align="center">
+  <kbd>
+<img src="/face-4.png" alt="Image description">
+  </kbd>
+</p>
+
+<p align="center">
+  <kbd>
+<img src="/face-5.png" alt="Image description">
+  </kbd>
+</p>
+
+<p align="center">
+  <kbd>
+<img src="/face-6.png" alt="Image description">
+  </kbd>
+</p>
+
+<p align="center">
+  <kbd>
+<img src="/face-7.png" alt="Image description">
+  </kbd>
+</p>
