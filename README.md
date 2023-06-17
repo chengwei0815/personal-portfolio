@@ -43,3 +43,8 @@
 <img src="/face-7.png" alt="Image description">
   </kbd>
 </p>
+
+<p align="center">
+Deploy to Netlify: npm run build
+drag build folder to Netlify
+</p>
